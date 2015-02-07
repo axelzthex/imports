@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 1839c85f669b240448e4c79cec38f42f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Carlig
+    100004: Cauldron
+    100006: Cauldron_handle
+    100008: Cylinder
+    100010: Rocks
+    100012: Soup
+    100014: Suport_orizontal
+    100016: Suport_vertical2
+    100018: Suport_vertical2.001
+    400000: //RootNode
+    400002: Carlig
+    400004: Cauldron
+    400006: Cauldron_handle
+    400008: Cylinder
+    400010: Rocks
+    400012: Soup
+    400014: Suport_orizontal
+    400016: Suport_vertical2
+    400018: Suport_vertical2.001
+    2300000: Carlig
+    2300002: Cauldron
+    2300004: Cauldron_handle
+    2300006: Cylinder
+    2300008: Rocks
+    2300010: Soup
+    2300012: Suport_orizontal
+    2300014: Suport_vertical2
+    2300016: Suport_vertical2.001
+    3300000: Carlig
+    3300002: Cauldron
+    3300004: Cauldron_handle
+    3300006: Cylinder
+    3300008: Rocks
+    3300010: Soup
+    3300012: Suport_orizontal
+    3300014: Suport_vertical2
+    3300016: Suport_vertical2.001
+    4300000: Suport_vertical2.001
+    4300002: Cylinder
+    4300004: Soup
+    4300006: Suport_orizontal
+    4300008: Carlig
+    4300010: Cauldron_handle
+    4300012: Cauldron
+    4300014: Suport_vertical2
+    4300016: Rocks
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 166
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
